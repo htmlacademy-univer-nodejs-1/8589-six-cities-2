@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Вадим Новаш](https://up.htmlacademy.ru/univer-nodejs-api/2/user/8589).
-* Наставник: `Неизвестно`.
+* Наставник: [Владислав Поляков](https://htmlacademy.ru/profile/polrk).
 
 ---
 
